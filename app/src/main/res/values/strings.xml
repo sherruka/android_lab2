@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="eva_characters_list">Список персонажей Евангелиона</string>
+    <string name="character_name">Имя Персонажа</string>
+    <string name="character_age">Возраст</string>
+    <string name="character_info">инфо</string>
+    <string name="eva_character_avatar_description">Аватар персонажа</string>
+</resources>
